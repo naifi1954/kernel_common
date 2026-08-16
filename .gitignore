@@ -35,6 +35,7 @@
 *.mod.c
 *.o
 *.o.*
+*.orig
 *.patch
 *.s
 *.so
